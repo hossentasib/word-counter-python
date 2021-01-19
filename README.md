@@ -1,1 +1,1 @@
-# word-counter-python
+Count the word from each content automatically
